@@ -2,5 +2,5 @@
  diseño : título de la diapositiva
  : "¡ Bienvenidos a la segunda página! "
 ---
-Tu texto 
+No se que escribir, chau
 Utiliza la flecha hacia la izquierda para volver!
